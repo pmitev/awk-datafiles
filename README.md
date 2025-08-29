@@ -1,1 +1,1 @@
-# awk dat afiles
+# awk data afiles
